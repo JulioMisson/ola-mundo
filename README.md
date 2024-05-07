@@ -1,2 +1,2 @@
-# ola mundo
- estudos guanabra
+# olá, Mundo!
+ estudos guanabara git e github
